@@ -1,0 +1,77 @@
+.total{
+    width: 500px;
+    height: 200px;
+    
+    margin: auto;
+}
+#galben{
+    width:368px;
+    height:20px;
+    background-color: rgb(233, 233, 96);
+    border-radius: 3px;
+}
+#aquamarin1{
+  
+    width: 176px;
+    height: 20px;
+    background-color: rgb(20, 119, 119);
+    position: relative;
+    top: 1em;
+    border-radius: 3px;
+}
+#aquamarin2{
+  
+    width: 176px;
+    height: 20px;
+    background-color:rgb(20, 119, 119);
+    left:12em;
+    position: relative;
+    border-radius: 3px;
+}
+
+#albastru1{
+    width: 80px;
+    height: 20px;
+    background-color: rgb(38, 5, 137);
+    
+    position:relative;
+    top:1em;
+    border-radius: 3px;
+}
+#albastru2{
+    width: 80px;
+    height: 20px;
+    background-color: rgb(38, 5, 137);
+    left: 6em;
+    position:relative;
+    border-radius: 3px;
+
+}       
+#albastru3{
+    width: 80px;
+    height: 20px;
+    background-color: rgb(38, 5, 137);
+    left: 6em;
+    position:relative;
+    border-radius: 3px;
+}
+
+
+#albastru4{
+    width: 80px;
+    height: 20px;
+    background-color: rgb(38, 5, 137);
+    left: 6em;
+    position:relative;
+    border-radius: 3px;
+}
+#galben2{
+    width:368px;
+    height:20px;
+    background-color: rgb(233, 233, 96);
+    top:1em;
+    position: relative;
+    right: 12em;
+    border-radius: 3px;
+}
+

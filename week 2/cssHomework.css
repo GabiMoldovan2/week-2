@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+  }
+
+body{
+    margin:0;
+}
+.titlu{
+    padding: 20px;
+    left: 50px;
+    position: relative;
+    top:2em;
+    width:auto;
+}
+.row{
+    
+    left:50px;
+    position: relative;
+    width: auto;
+    
+}
+#leftside{
+float:left;
+padding: 50px;
+width: 250px;
+border-right: 2px solid;
+position: relative;
+height: 700px;
+
+}
+img{
+    border-radius:50%;
+    border: 1px solid;
+
+}
+#paragraf{
+    width:850px;
+}
